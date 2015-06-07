@@ -27,6 +27,7 @@ h2	{ font-size:1.15em; }
 
 h3	{ font-size:1em; }
 
+
 /*HEADDER*/
 #headder	{
 	height:4em;
@@ -77,6 +78,11 @@ h3	{ font-size:1em; }
 /*CONTENT*/
 #content	{
 	clear: both;
+}
+
+.info{
+	text-align:left;
+	margin:2em;
 }
 
 /*FLEX-SLIDER CONTAINER*/
