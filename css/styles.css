@@ -5,6 +5,9 @@ list-style-type: none;
 padding: 0px;
 margin: 0px;
 }
+table, th, td {
+    border-collapse: collapse;
+}
 
 body{
 background-color:#8c8c8c;
@@ -194,7 +197,25 @@ div.row	{
 	border-bottom:thin #8c8c8c solid;
 	border-left:0px;
 	}
+	
+/*PRICES TABLE*/
 
+table.pricesTable{
+width:90%;
+	margin:0 auto;
+	font-size:90%;
+	}
+    
+table.pricesTable th,tr,td{
+    border:thin lightgray solid;
+}
+
+.groupHeadder{
+	font-weight:bold;
+	background-color:lightgray;
+}
+
+/*LIST*/
 #products{
 	border-top: #666666 thick outset; 
 }
