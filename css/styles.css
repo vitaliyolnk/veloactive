@@ -233,8 +233,6 @@ table.pricesTable th,tr,td{
 	
 	/*MAP CONTAINER*/
 #veloactivemap{
-	height:28em;
-	width:38em;
 	display:inline-block;
 	background:url('../images/logos/ajax-loader.gif') center center no-repeat;
 }

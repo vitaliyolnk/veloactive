@@ -166,6 +166,13 @@ UpgradeLog*.htm
 App_Data/*.mdf
 App_Data/*.ldf
 
+# MS ExpressionWeb folders
+#Ignore _vti folders in ExpressionWeb
+desktop.ini
+_vti_cnf
+_vti_pvt
+app
+
 #############
 ## Windows detritus
 #############
