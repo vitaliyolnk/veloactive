@@ -206,7 +206,7 @@ div.row	{
 #veloactivemap{
 	height:28em;
 	width:38em;
-	display:inline-block;
+	display:inline;
 	background:url('../images/logos/ajax-loader.gif') center center no-repeat;
 }
 /*FOOTER*/
